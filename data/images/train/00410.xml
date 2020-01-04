@@ -1,0 +1,26 @@
+<annotation>
+	<folder>video_GH010164</folder>
+	<filename>frame18.jpg</filename>
+	<path>F:\new_project\video_GH010164\frame18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>air_gauge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1367</xmin>
+			<ymin>663</ymin>
+			<xmax>3148</xmax>
+			<ymax>901</ymax>
+		</bndbox>
+	</object>
+</annotation>

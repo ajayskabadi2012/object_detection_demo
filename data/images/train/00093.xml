@@ -1,0 +1,26 @@
+<annotation>
+	<folder>video_GH010158</folder>
+	<filename>frame19.jpg</filename>
+	<path>C:\Users\FUEL-C70\Desktop\vinod_newproject\video_GH010158\frame19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>air_gauge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1598</xmin>
+			<ymin>22</ymin>
+			<xmax>2306</xmax>
+			<ymax>1502</ymax>
+		</bndbox>
+	</object>
+</annotation>

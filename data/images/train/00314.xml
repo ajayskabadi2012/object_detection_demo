@@ -1,0 +1,26 @@
+<annotation>
+	<folder>video_GH010160</folder>
+	<filename>00314.jpg</filename>
+	<path>C:\Users\FUEL-C81\Desktop\mounesh_newproject\video_GH010160\frame95.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vernier_caliper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1068</xmin>
+			<ymin>442</ymin>
+			<xmax>3048</xmax>
+			<ymax>1790</ymax>
+		</bndbox>
+	</object>
+</annotation>

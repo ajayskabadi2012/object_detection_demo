@@ -1,0 +1,26 @@
+<annotation>
+	<folder>video_GH010163</folder>
+	<filename>frame21.jpg</filename>
+	<path>F:\new_project\video_GH010163\frame21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vernier_caliper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>700</xmin>
+			<ymin>806</ymin>
+			<xmax>2939</xmax>
+			<ymax>1368</ymax>
+		</bndbox>
+	</object>
+</annotation>

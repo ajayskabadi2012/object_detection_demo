@@ -1,0 +1,26 @@
+<annotation>
+	<folder>video_GH010161</folder>
+	<filename>frame15.jpg</filename>
+	<path>C:\Users\FUEL-C84\Desktop\newproject\video_GH010161\frame15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vernier_caliper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>596</ymin>
+			<xmax>2834</xmax>
+			<ymax>1844</ymax>
+		</bndbox>
+	</object>
+</annotation>
